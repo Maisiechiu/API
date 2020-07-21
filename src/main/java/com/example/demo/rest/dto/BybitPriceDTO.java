@@ -1,6 +1,6 @@
 package com.example.demo.rest.dto;
 
-public class BybitDTO {
+public class BybitPriceDTO {
          private String ret_code;
          private String ret_msg;
          private String ext_code;
